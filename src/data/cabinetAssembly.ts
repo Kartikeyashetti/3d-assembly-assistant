@@ -144,7 +144,7 @@ export const cabinetProduct: ProductDefinition = {
       title: 'Open the door',
       instruction: 'Swing the door open to verify clearance and hinge alignment.',
       focusPoint: [0.2, 0.75, 0.5],
-      cameraOffset: [1.2, 1.2, 2.0],
+      cameraOffset: [-1.5, 1.0, 1.5],
     },
   ],
 };
